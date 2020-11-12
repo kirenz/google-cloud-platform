@@ -1,6 +1,8 @@
 # Google Cloud Platform (GCP)
 
-Erste Schritte mit der Google Cloud Platform
+Erste Schritte mit der Google Cloud Platform:
+
+* [Google Cloud Virtual Machine Set Up](http://htmlpreview.github.io/?https://github.com/kirenz/tidymodels-in-r/blob/main/01-tidymodels-build-a-model.html). Learn how to build a Linear Regression model with Tidymodels
 
 ## AI Platform Notebooks
 

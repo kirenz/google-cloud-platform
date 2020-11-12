@@ -2,7 +2,7 @@
 
 Erste Schritte mit der Google Cloud Platform:
 
-* [Google Cloud Virtual Machine Set Up](http://htmlpreview.github.io/?https://github.com/kirenz/google-cloud-platform/blob/main/google-cloud-set-up.html). 
+* [Google Cloud Virtual Machine Set Up](http://htmlpreview.github.io/?https://github.com/kirenz/google-cloud-platform/blob/main/google-cloud-set-up.html). You do not need to install MLFlow (Step 1.9).
 
 ## AI Platform Notebooks
 

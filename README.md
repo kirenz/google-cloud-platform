@@ -14,6 +14,11 @@ Weitere Hinweise:
 - [Neue Notebookinstanz erstellen](https://cloud.google.com/ai-platform/notebooks/docs/create-new)
 
 
+## Was ist BigQuery?
+
+- [Was ist BigQuery?](https://cloud.google.com/bigquery/docs/introduction)
+
+
 ## PostgreSQL
 
 PostgreSQL (auch Postgres genannt), ist ein freies Datenbankmanagementsystem (ORDBMS):

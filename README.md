@@ -4,8 +4,11 @@ Erste Schritte mit der Google Cloud Platform
 
 ## AI Platform Notebooks
 
+![](https://cloud.google.com/solutions/machine-learning/images/data-science-using-r-eda-flow.png)
+
 - [AI Platform Notebooks-Dokumentation](https://cloud.google.com/ai-platform/notebooks/docs)
 - [Neue Notebookinstanz erstellen](https://cloud.google.com/ai-platform/notebooks/docs/create-new)
+- [Data Science mit R in Google Cloud]()
 
 ## PostgreSQL
 

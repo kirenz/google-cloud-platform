@@ -2,6 +2,11 @@
 
 Erste Schritte mit der Google Cloud Platform
 
+## AI Platform Notebooks
+
+- [AI Platform Notebooks-Dokumentation](https://cloud.google.com/ai-platform/notebooks/docs)
+- [Neue Notebookinstanz erstellen](https://cloud.google.com/ai-platform/notebooks/docs/create-new)
+
 ## PostgreSQL
 
 PostgreSQL (auch Postgres genannt), ist ein freies Datenbankmanagementsystem (ORDBMS):

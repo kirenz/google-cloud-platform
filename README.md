@@ -8,6 +8,8 @@ Erste Schritte mit der Google Cloud Platform
 
 - [Data Science mit R in Google Cloud](https://cloud.google.com/solutions/machine-learning/data-science-with-r-on-gcp-eda)
 
+Weitere Hinweise:
+
 - [AI Platform Notebooks-Dokumentation](https://cloud.google.com/ai-platform/notebooks/docs)
 - [Neue Notebookinstanz erstellen](https://cloud.google.com/ai-platform/notebooks/docs/create-new)
 
